@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWPF>true</UseWPF>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\WpfApp4.Core\WpfApp4.Core.csproj" />
+        <ProjectReference Include="..\WpfApp4.Modules.Login\WpfApp4.Modules.Login.csproj" Private="false" ReferenceOutputAssembly="false" />
+        <ProjectReference Include="..\WpfApp4.Modules.MemberQuery\WpfApp4.Modules.MemberQuery.csproj" Private="false" ReferenceOutputAssembly="false" />
+    </ItemGroup>
+
+</Project>

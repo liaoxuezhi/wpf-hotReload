@@ -1,0 +1,17 @@
+D:\code\c#\WpfApp4\WpfApp4\bin\Debug\net6.0-windows\Modules\net6.0-windows\WpfApp4.Modules.MemberQuery.deps.json
+D:\code\c#\WpfApp4\WpfApp4\bin\Debug\net6.0-windows\Modules\net6.0-windows\WpfApp4.Modules.MemberQuery.dll
+D:\code\c#\WpfApp4\WpfApp4\bin\Debug\net6.0-windows\Modules\net6.0-windows\WpfApp4.Modules.MemberQuery.pdb
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.csproj.AssemblyReference.cache
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\MemberQueryView.baml
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\MemberQueryView.g.cs
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery_MarkupCompile.cache
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.g.resources
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.AssemblyInfoInputs.cache
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.AssemblyInfo.cs
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.csproj.CoreCompileInputs.cache
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.csproj.CopyComplete
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.dll
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\refint\WpfApp4.Modules.MemberQuery.dll
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\WpfApp4.Modules.MemberQuery.pdb
+D:\code\c#\WpfApp4\WpfApp4.Modules.MemberQuery\obj\Debug\net6.0-windows\ref\WpfApp4.Modules.MemberQuery.dll

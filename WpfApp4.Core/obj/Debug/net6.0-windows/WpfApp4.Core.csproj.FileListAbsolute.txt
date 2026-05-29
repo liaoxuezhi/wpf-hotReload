@@ -1,0 +1,12 @@
+D:\code\c#\WpfApp4\WpfApp4.Core\bin\Debug\net6.0-windows\WpfApp4.Core.deps.json
+D:\code\c#\WpfApp4\WpfApp4.Core\bin\Debug\net6.0-windows\WpfApp4.Core.dll
+D:\code\c#\WpfApp4\WpfApp4.Core\bin\Debug\net6.0-windows\WpfApp4.Core.pdb
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.csproj.AssemblyReference.cache
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.AssemblyInfoInputs.cache
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.AssemblyInfo.cs
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.csproj.CoreCompileInputs.cache
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.dll
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\refint\WpfApp4.Core.dll
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\WpfApp4.Core.pdb
+D:\code\c#\WpfApp4\WpfApp4.Core\obj\Debug\net6.0-windows\ref\WpfApp4.Core.dll
