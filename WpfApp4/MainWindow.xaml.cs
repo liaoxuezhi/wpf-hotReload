@@ -50,6 +50,16 @@ namespace WpfApp4
             }
         }
 
+        private void BtnLogin_Click(object sender, RoutedEventArgs e)
+        {
+            NavigateTo("Login");
+        }
+
+        private void BtnMemberQuery_Click(object sender, RoutedEventArgs e)
+        {
+            NavigateTo("MemberQuery");
+        }
+
         protected override void OnClosed(EventArgs e)
         {
             _moduleLoader.StopWatching();

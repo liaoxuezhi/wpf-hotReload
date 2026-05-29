@@ -8,6 +8,15 @@
             <RowDefinition Height="*"></RowDefinition>
         </Grid.RowDefinitions>
 
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="5" Background="#f0f0f0">
+            <Button x:Name="BtnLogin" Content="登录" Width="80" Height="30" Margin="5" 
+                    Click="BtnLogin_Click" Background="#0078d4" Foreground="White" 
+                    BorderThickness="0" FontSize="13" Cursor="Hand"/>
+            <Button x:Name="BtnMemberQuery" Content="会员查询" Width="80" Height="30" Margin="5" 
+                    Click="BtnMemberQuery_Click" Background="#0078d4" Foreground="White" 
+                    BorderThickness="0" FontSize="13" Cursor="Hand"/>
+        </StackPanel>
+
         <ContentControl Grid.Row="1" x:Name="MainContent"/>
     </Grid>
 </Window>
